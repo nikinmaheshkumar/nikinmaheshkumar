@@ -10,7 +10,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech%20CSBS-VIT%20Vellore%20%E2%80%93%202027-7C3AED?style=flat-square&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CGPA-8.21%20%2F%2010-6D28D9?style=flat-square&logo=googlescholar&logoColor=white" />
   <img src="https://img.shields.io/badge/Patent-202641018872-5B21B6?style=flat-square&logo=google-patents&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Vellore%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
