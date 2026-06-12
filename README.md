@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,6&height=200&section=header&text=Nikin%20Mahesh%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Patent%20Holder%20%7C%20R%26D%20Head&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=9999&color=A78BFA&center=true&vCenter=true&width=700&height=80&lines=Nikin+Mahesh+Kumar" alt="Name" />
 </p>
 
 <p align="center">
